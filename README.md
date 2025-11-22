@@ -72,7 +72,9 @@ Exports the final table (Name, Marks, Grade) to a CSV file.
 ---
 ## Screenshots
 ### Manual Entry
+![screenshot1](Screenshots/Manual_input.png)
 ### csv Entry
+![screenshot2](Screenshots/csv_Input.png)
 ---
 
 ## Tech Used
